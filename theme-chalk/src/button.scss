@@ -1,0 +1,17 @@
+@use './var.scss' as *;
+
+.my-button-1 {
+    background-color: $color-primary;
+
+    span {
+        color: gray;
+    }
+}
+
+.my-button-2 {
+    background-color: $color-secondary;
+
+    span {
+        color: aquamarine;
+    }
+}
